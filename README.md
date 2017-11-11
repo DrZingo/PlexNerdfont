@@ -10,7 +10,7 @@ WIP
 
 #### Links
 
-**IBM Plex Typeface **
+**IBM Plex Typeface**
 
 - [Github](https://github.com/IBM/type)
 
