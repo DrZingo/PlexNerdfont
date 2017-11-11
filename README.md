@@ -10,8 +10,16 @@ WIP
 
 #### Links
 
-IBM Plex Typeface - [Github](https://github.com/IBM/type) [Website](http://nerdfonts.com/)
+**IBM Plex Typeface **
 
-Nerdfonts - [Github](https://github.com/ryanoasis/nerd-fonts)[Website](https://ibm.github.io/type/)
+- [Github](https://github.com/IBM/type)
+
+- [Website](http://nerdfonts.com/)
+
+**Nerdfonts**
+
+- [Github](https://github.com/ryanoasis/nerd-fonts)
+
+- [Website](https://ibm.github.io/type/)
 
 
