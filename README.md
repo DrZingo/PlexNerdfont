@@ -1,2 +1,2 @@
 # IBMPlexMono-Nerdfont
-## IBM Plex Mono prepatched with Nerdfont
+### IBM Plex Mono prepatched with Nerdfont
