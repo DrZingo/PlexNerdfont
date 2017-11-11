@@ -1,2 +1,2 @@
-# ibm-nerdpower
-IBM/type with Powerline and Nerdfont
+# IBMPlexMono-Nerdfont
+## IBM Plex Mono prepatched with Nerdfont
