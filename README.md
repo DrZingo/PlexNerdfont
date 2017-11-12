@@ -16,4 +16,14 @@ IBM recently released their Plex fontface. I made a version that adds Powerline 
 
 Install using your operating systems font management (ie. FontBook)
 
-### More to come. This is still a work in progress
+## Images
+
+![code](https://imgur.com/mivxMXb.png)
+
+![NERDTree](https://imgur.com/E5nRbNS.png)
+
+![Powerline](https://imgur.com/b2Jd3cs.png)
+
+
+
+**This Readme is still WIP and may be incomplete. Feel free to submit a PR to improve it**
