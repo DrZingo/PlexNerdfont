@@ -1,25 +1,19 @@
-### IBMPlexMono-Nerdfont
-#### IBM Plex Mono prepatched with Nerdfont
----
+# IBM Plex Mono NerdFont
 
-IBM Plex Mono is an awesome typeface for coding. Nerdfont adds tons of glyphicons to your system font. I put the two together to make a sick monospace font.
+IBM recently released their Plex fontface. I made a version that adds Powerline and Nerdfont's. 
 
-##### Installation
+| Variations  
+| ---------- 
+| ExtraLight
+| Light
+| Medium
+| Regular
+| Semibold
+| Text
+| Thin
 
-WIP
+## Installation
 
-#### Links
+Install using your operating systems font management (ie. FontBook)
 
-**IBM Plex Typeface**
-
-- [Github](https://github.com/IBM/type)
-
-- [Website](http://nerdfonts.com/)
-
-**Nerdfonts**
-
-- [Github](https://github.com/ryanoasis/nerd-fonts)
-
-- [Website](https://ibm.github.io/type/)
-
-
+### More to come. This is still a work in progress
