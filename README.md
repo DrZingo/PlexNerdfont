@@ -22,19 +22,6 @@ IBM recently released their Plex fontface. I made a version that adds Powerline 
 
 Install using your operating systems font management (ie. FontBook)
 
-## Building
-
-Fonts are build using the font-patcher from nerd-fonts. For example
-
-```
-fontforge -script font-patcher $FONT_NAME -s -l -w -c
-
--s: Mono
--l: Powerline height adjustment
--w: Windows Compatability
--c: Complete Glyph Set
-```
-
 ## Images
 
 ![code](https://imgur.com/mivxMXb.png)
