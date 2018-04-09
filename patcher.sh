@@ -1,4 +1,14 @@
 #!/bin/bash
+# Sunny Golovine
+# @sgolovine
+#
+# TODO: 
+# This script is awful
+# I have to fix it so make it usable for anyone but myself
+#
+# ....but hey it works
+
+
 
 ## OTF FONTS
 # IBMPlexMono-Bold.otf
@@ -36,8 +46,6 @@
 # IBMPlexMono-Thin.ttf
 # IBMPlexMono-ThinItalic.ttf
 
-## SAMPLE CODE
-# /usr/local/bin/fontforge -script /Users/sgolovine/Code/nerd-fonts/font-patcher /Users/sgolovine/Code/PlexNerdfont/originals/otf/IBMPlexMono-Regular.otf -s -l -w -c -out /Users/sgolovine/Code/PlexNerdfont/patched/otf/.
 
 
 # OTF
