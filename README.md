@@ -17,9 +17,11 @@ IBM recently released their Plex fontface. I made a version that adds Powerline 
 `/originals` - Unmodified IBMPlexMono font, from [here](https://github.com/IBM/plex)
 
 `/nerdfont` - Patched fonts
+
 ## Installation
 
 Install using your operating systems font management (ie. FontBook)
+
 
 ## Images
 
@@ -28,6 +30,32 @@ Install using your operating systems font management (ie. FontBook)
 ![NERDTree](https://imgur.com/E5nRbNS.png)
 
 ![Powerline](https://imgur.com/b2Jd3cs.png)
+
+
+## Development
+
+### Setup
+
+[Fontforge](https://fontforge.github.io/en-US/) (or install using your favorite package manager)
+
+Python2/3 + configparser (install it using pip)
+
+[nerdfont-patcher](https://github.com/sgolovine/nerdfont-patcher) (or [nerd-fonts](https://github.com/ryanoasis/nerd-fonts))
+
+
+### Adding glyphs
+
+```
+fontforge -script font-patcher PATH_TO_FONT
+--mono
+--complete
+--out OUTPUT_PATH
+```
+For windows fonts we add the `--windows` flag as well.
+
+### Script 
+
+WIP
 
 
 ## Issues/Contributing
