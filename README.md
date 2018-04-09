@@ -1,9 +1,9 @@
 # IBM Plex Mono NerdFont
 
-IBM recently released their Plex fontface. I made a version that adds Powerline and Nerdfont's. 
+IBM recently released their Plex fontface. I made a version that adds Powerline and Nerdfont's.
 
 | Variations  
-| ---------- 
+| ----------
 | ExtraLight
 | Light
 | Medium
@@ -22,6 +22,18 @@ IBM recently released their Plex fontface. I made a version that adds Powerline 
 
 Install using your operating systems font management (ie. FontBook)
 
+## Building
+
+Fonts are build using the font-patcher from nerd-fonts. For example
+
+```
+fontforge -script font-patcher $FONT_NAME -s -l -w -c
+
+-s: Mono
+-l: Powerline height adjustment
+-w: Windows Compatability
+-c: Complete Glyph Set
+```
 
 ## Images
 
@@ -30,7 +42,6 @@ Install using your operating systems font management (ie. FontBook)
 ![NERDTree](https://imgur.com/E5nRbNS.png)
 
 ![Powerline](https://imgur.com/b2Jd3cs.png)
-
 
 ## Development
 
@@ -42,7 +53,6 @@ Python2/3 + configparser (install it using pip)
 
 [nerdfont-patcher](https://github.com/sgolovine/nerdfont-patcher) (or [nerd-fonts](https://github.com/ryanoasis/nerd-fonts))
 
-
 ### Adding glyphs
 
 ```
@@ -51,17 +61,16 @@ fontforge -script font-patcher PATH_TO_FONT
 --complete
 --out OUTPUT_PATH
 ```
+
 For windows fonts we add the `--windows` flag as well.
 
-### Script 
+### Script
 
 WIP
-
 
 ## Issues/Contributing
 
 If you find something broken or not working right feel free to submit an issue and/or pull request.
-
 
 ## Tools/Sources
 
